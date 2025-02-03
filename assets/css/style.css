@@ -173,7 +173,8 @@ body {
 }
 
 .content__text__ajuste {
-  padding: 0% 30% 0% 0%;
+  padding: 0% 0% 0% 0%;
+  font-size: 1.2rem;
 }
 
 @media (max-width: 1200px) {
